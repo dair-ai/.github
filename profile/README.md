@@ -2,6 +2,8 @@ DAIR.AI aims to democratize AI research, education, and technologies. Our missio
 
 Reach out to hello@dair.ai for partnerships, collaborations, or for more information on our services. 
 
+New cohorts for our "Prompt Engineering for LLMs" course are now live: [https://maven.com/dair-ai/prompt-engineering-llms](https://maven.com/dair-ai/prompt-engineering-llms)
+
 Join our Discord [here](https://discord.gg/SKgkVT8BGJ).
 
 Subscribe to our newsletter [here](https://nlpnews.substack.com/).
