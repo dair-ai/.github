@@ -1,6 +1,6 @@
 DAIR.AI aims to democratize AI research, education, and technologies. Our mission is to enable the next generation of AI innovators and creators.
 
-New cohorts for our "Prompt Engineering for LLMs" course are now live: [https://maven.com/dair-ai/prompt-engineering-llms](https://maven.com/dair-ai/prompt-engineering-llms)
+Join the DAIR.AI Academy here: [https://dair-ai.thinkific.com/](https://dair-ai.thinkific.com/)
 
 Subscribe to our [YouTube](https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ).
 
